@@ -43,8 +43,3 @@ _Still studying at the Kyiv National University of Construction and Architecture
 ```
 ## **English**
 _English level - B1._
-
-
-
-   
-
